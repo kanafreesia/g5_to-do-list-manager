@@ -51,31 +51,32 @@ The To-Do List Manager provides core functionalities, as shown below:
 
 **Homepage**
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/f567df29-ff67-4703-8636-fec024d2abcb)
 
 **Adding a Task**
 
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/4a0beaad-b1b3-4a22-b84c-b956de3699ef)
 
 **View Pending Tasks**
 
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/a3254761-e9e3-42fc-8c97-0fc9e63fe144)
 
 **Editing a Task**
 
-![alt text](image-3.png)
+![image](https://github.com/user-attachments/assets/89627df6-ebab-4ccf-850d-76955185bf07)
 
 **Deleting a Task**
 
-![alt text](image-5.png)
+![image](https://github.com/user-attachments/assets/757ffe08-9e61-4de8-8403-91e3759343d2)
 
 **Marking task as Completed**
 
-![alt text](image-6.png)
+![image](https://github.com/user-attachments/assets/b18acca1-5e3f-4936-a5fe-cbc1246ed121)
 
 **View Completed Task**
 
-![alt text](image-7.png)
+![image](https://github.com/user-attachments/assets/3c1c759f-6aa6-495b-95de-786d92b7ece4)
+
 
 
 

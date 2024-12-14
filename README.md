@@ -1,6 +1,6 @@
 # To-Do List Manager 
 
-## **Purpose of the Package**
+## **Overview**
 The **To-Do List Manager** is designed to help users efficiently manage their tasks by prioritizing them based on both due dates and priority levels. The system uses a priority-based approach that ensures tasks with higher urgency are addressed first.
 
 The application features a graphical user interface (GUI) built with Tkinter, allowing users to add tasks, set deadlines, assign priorities ("High", "Medium", or "Low"), and mark tasks as completed. Tasks are organized and displayed in order of priority and deadlines, ensuring efficient task management. 

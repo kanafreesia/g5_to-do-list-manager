@@ -26,7 +26,7 @@ Removes a task from the list.
 
 ---
 
-## **Installation via GitHub**
+## **Installation via GitHub Repository**
 
 To install the package, ensure you have Python (>=3.6) installed. Then, follow these steps:
 
